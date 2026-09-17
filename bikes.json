@@ -1,3 +1,20 @@
 [
-  
+  {
+    "id": 1,
+    "model": "SP234",
+    "type": "Computer",
+    "registrationNumber": "466728472",
+    "pricePerHour": 40,
+    "pricePerDay": 500,
+    "available": true
+  },
+  {
+    "id": 2,
+    "model": "ER46",
+    "type": "Electronic",
+    "registrationNumber": "4521571",
+    "pricePerHour": 40,
+    "pricePerDay": 600,
+    "available": true
+  }
 ]
